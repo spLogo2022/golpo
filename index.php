@@ -670,7 +670,7 @@
 			</section>
 
 			<!-- Section Latest Blog -->
-			<section class="section kf-latest-blog section-bg">
+			<!-- <section class="section kf-latest-blog section-bg">
 				<div class="container">
 
 					<div class="kf-titles align-center">
@@ -735,7 +735,7 @@
 					</div>
 
 				</div>
-			</section>
+			</section> -->
 
 			<!-- Section CTA -->
 			<section class="section kf-cta kf-parallax" style="background-image: url(images/cta_bg.jpg);">
