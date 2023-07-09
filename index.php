@@ -20,7 +20,7 @@
 
 										</h2>
 										<div class="kf-bts">
-											<a href="menu-restaurant.html" class="kf-btn">
+											<a href="#" class="kf-btn">
 												<span>explore more</span>
 												<i class="fas fa-chevron-right"></i>
 											</a>
@@ -83,7 +83,7 @@
 									About Us
 								</div>
 								<h3 class="kf-title element-anim-1 scroll-animate" data-animate="active">
-									Organic & Fresh Coffee <br>Provider Center
+								We are specialized in spicy modern fusion food
 								</h3>
 							</div>
 
@@ -127,7 +127,7 @@
 								</div>
 								<div class="desc">
 									<div class="icon"><i class="las la-utensils"></i></div>
-									<h5 class="name">Restaurant Menu</h5>
+									<h5 class="name">Today's Special</h5>
 								</div>
 							</div>
 						</div>
@@ -138,8 +138,8 @@
 									<a href="menu-coffee.html"><img src="images/service2.jpg" alt="" /></a>
 								</div>
 								<div class="desc">
-									<div class="icon"><i class="las la-coffee"></i></div>
-									<h5 class="name">Coffee Menu</h5>
+									<div class="icon"><img src="images/dish.png" alt="" class="dish"></div>
+									<h5 class="name">Main Course</h5>
 								</div>
 							</div>
 						</div>
@@ -150,8 +150,8 @@
 									<a href="services.html"><img src="images/service3.jpg" alt="" /></a>
 								</div>
 								<div class="desc">
-									<div class="icon"><i class="las la-glass-cheers"></i></div>
-									<h5 class="name">Food Services</h5>
+									<div class="icon"><img src="images/pop-corn.png" alt="" class="dish"></div>
+									<h5 class="name">Delicious starter</h5>
 								</div>
 							</div>
 						</div>
@@ -167,10 +167,10 @@
 
 					<div class="kf-titles align-center">
 						<div class="kf-subtitle menuu element-anim-1 scroll-animate"  data-animate="active">
-							Choose Best Coffee
+						From Our Menu
 						</div>
 						<h3 class="kf-title element-anim-1 scroll-animate" style="color:#fff;" data-animate="active">
-							Kaffen Popular Coffee Menu
+						Try Our Special Offers
 						</h3>
 					</div>
 
@@ -183,7 +183,7 @@
 										<a href="images/menu1.jpg" class="has-popup-image"><img src="images/menu1.jpg" alt="" /></a>
 									</div>
 									<div class="desc">
-										<h5 class="name">Americano Coffee</h5>
+										<h5 class="name">Mutton Sikh Kabab</h5>
 										<div class="subname">2/3 espresso, 1/3 streamed milk</div>
 										<div class="price">$4.9</div>
 									</div>
@@ -196,7 +196,7 @@
 										<a href="images/menu2.jpg" class="has-popup-image"><img src="images/menu2.jpg" alt="" /></a>
 									</div>
 									<div class="desc">
-										<h5 class="name">Espresso Coffee</h5>
+										<h5 class="name">Chicken Reshmi Kabab</h5>
 										<div class="subname">2/3 espresso, 1/3 streamed milk</div>
 										<div class="price">$4.9</div>
 									</div>
@@ -209,7 +209,7 @@
 										<a href="images/menu3.jpg" class="has-popup-image"><img src="images/menu3.jpg" alt="" /></a>
 									</div>
 									<div class="desc">
-										<h5 class="name">Barista Pouring Syrup</h5>
+										<h5 class="name">Hakka Noodles</h5>
 										<div class="subname">2/3 espresso, 1/3 streamed milk</div>
 										<div class="price">$3.5</div>
 									</div>
@@ -222,7 +222,7 @@
 										<a href="images/menu4.jpg" class="has-popup-image"><img src="images/menu4.jpg" alt="" /></a>
 									</div>
 									<div class="desc">
-										<h5 class="name">Cold - Coffee</h5>
+										<h5 class="name">Paneer Butter Masala</h5>
 										<div class="subname">2/3 espresso, 1/3 streamed milk</div>
 										<div class="price">$6.0</div>
 									</div>
@@ -235,7 +235,7 @@
 										<a href="images/menu5.jpg" class="has-popup-image"><img src="images/menu5.jpg" alt="" /></a>
 									</div>
 									<div class="desc">
-										<h5 class="name">Cappuccino Arabica</h5>
+										<h5 class="name">Chicken Biriyani</h5>
 										<div class="subname">2/3 espresso, 1/3 streamed milk</div>
 										<div class="price">$2.8</div>
 									</div>
@@ -248,7 +248,7 @@
 										<a href="images/menu6.jpg" class="has-popup-image"><img src="images/menu6.jpg" alt="" /></a>
 									</div>
 									<div class="desc">
-										<h5 class="name">Milk Cream Coffee</h5>
+										<h5 class="name">Mixed Fried Rice</h5>
 										<div class="subname">2/3 espresso, 1/3 streamed milk</div>
 										<div class="price">$7.5</div>
 									</div>
@@ -265,20 +265,21 @@
 			<section class="section kf-choose section-bg">
 				<div class="container">
 					<div class="kf-parallax-icon pi-1" data-jarallax-element="-60">
-						<div class="p-icon" style="background-image: url(images/parallax_icon1.png);"></div>
+						<div class="p-icon" style=";"></div>
 					</div>
 					<div class="kf-parallax-icon pi-2" data-jarallax-element="-80">
-						<div class="p-icon" style="background-image: url(images/parallax_icon2.png);"></div>
+						<div class="p-icon" style=""></div>
 					</div>
 					<div class="kf-parallax-icon pi-3" data-jarallax-element="-40">
-						<div class="p-icon" style="background-image: url(images/parallax_icon3.png);"></div>
+						<div class="p-icon" style=""></div>
 					</div>
 
-					<div class="row">
+					<div class="row  align-items-center" >
 						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
 
-							<div class="kf-choose-image element-anim-1 scroll-animate" data-animate="active">
-								<img src="images/choose_img.jpg" alt="" />
+						<!-- kf-choose-image -->
+								<div class=" element-anim-1 scroll-animate" data-animate="active">
+								<img src="images/about_1.jpg" alt="" />
 							</div>
 
 						</div>
@@ -289,7 +290,7 @@
 									Why Choose Us
 								</div>
 								<h3 class="kf-title element-anim-1 scroll-animate" data-animate="active">
-									New London Coffee Founded For Extraordinary Test
+								Where Quality Food Meet Excellent Service.
 								</h3>
 							</div>
 
@@ -307,7 +308,7 @@
 											<img src="images/choose_icon1.png" alt="" />
 										</div>
 										<div class="desc">
-											<h5 class="name">Natural Coffee Beans</h5>
+											<h5 class="name">Fast Foods</h5>
 											<div class="subname">Sed ut perspiciatis unde omnis iste natus error voluptate accusantium doloremque</div>
 										</div>
 									</li>
@@ -316,7 +317,7 @@
 											<img src="images/choose_icon2.png" alt="" />
 										</div>
 										<div class="desc">
-											<h5 class="name">100% ISO Certification</h5>
+											<h5 class="name">Healthy foods</h5>
 											<div class="subname">Sed ut perspiciatis unde omnis iste natus error voluptate accusantium doloremque</div>
 										</div>
 									</li>
@@ -668,74 +669,6 @@
 
 				</div>
 			</section>
-
-			<!-- Section Latest Blog -->
-			<!-- <section class="section kf-latest-blog section-bg">
-				<div class="container">
-
-					<div class="kf-titles align-center">
-						<div class="kf-subtitle element-anim-1 scroll-animate" data-animate="active">
-							Get Every Single Update
-						</div>
-						<h3 class="kf-title element-anim-1 scroll-animate" data-animate="active">
-							Read Some Latest Blog & News
-						</h3>
-					</div>
-
-					<div class="kf-blog-grid-items row">
-
-						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
-							<div class="kf-blog-grid-item element-anim-1 scroll-animate" data-animate="active">
-								<div class="image kf-image-hover">
-									<a href="blog-single.html"><img src="images/latest_blog1.jpg" alt="" /></a>
-								</div>
-								<div class="desc">
-									<h5 class="name">SWR React Hooks With Next Increm Ental Static Regeneration</h5>
-									<div class="kf-date"><i class="far fa-calendar-alt"></i>25 Sep 2021</div>
-									<div class="kf-comm"><i class="far fa-comments"></i>Comments (7)</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
-							<div class="kf-blog-grid-item element-anim-1 scroll-animate" data-animate="active">
-								<div class="image kf-image-hover">
-									<a href="blog-single.html"><img src="images/latest_blog2.jpg" alt="" /></a>
-								</div>
-								<div class="desc">
-									<h5 class="name">Decisions For Building Flexible Components DevTools Browser</h5>
-									<div class="kf-date"><i class="far fa-calendar-alt"></i>25 Sep 2021</div>
-									<div class="kf-comm"><i class="far fa-comments"></i>Comments (7)</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
-							<div class="kf-blog-grid-item element-anim-1 scroll-animate" data-animate="active">
-								<div class="image kf-image-hover">
-									<a href="blog-single.html"><img src="images/latest_blog3.jpg" alt="" /></a>
-								</div>
-								<div class="desc">
-									<h5 class="name">SWR React Hooks With Next Increm Ental Static Regeneration</h5>
-									<div class="kf-date"><i class="far fa-calendar-alt"></i>25 Sep 2021</div>
-									<div class="kf-comm"><i class="far fa-comments"></i>Comments (7)</div>
-								</div>
-							</div>
-						</div>
-
-					</div>
-
-					<div class="align-center">
-
-						<a href="blog-grid.html" class="kf-btn element-anim-1 scroll-animate" data-animate="active">
-							<span>view all</span>
-							<i class="fas fa-chevron-right"></i>
-						</a>
-
-					</div>
-
-				</div>
-			</section> -->
 
 			<!-- Section CTA -->
 			<section class="section kf-cta kf-parallax" style="background-image: url(images/cta_bg.jpg);">
